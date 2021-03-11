@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Sdbruder\Crud\Tests;
 
 class ExampleTest extends TestCase
 {

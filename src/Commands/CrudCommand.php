@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Sdbruder\Crud\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CrudCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'crud';
 
     public $description = 'My command';
 
