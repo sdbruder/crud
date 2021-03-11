@@ -2,9 +2,9 @@
 
 namespace Sdbruder\Crud;
 
+use Sdbruder\Crud\Commands\CrudCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sdbruder\Crud\Commands\CrudCommand;
 
 class CrudServiceProvider extends PackageServiceProvider
 {
